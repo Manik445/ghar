@@ -1,0 +1,21 @@
+[debug] [2023-02-06T19:06:37.349Z] ----------------------------------------------------------------------
+[debug] [2023-02-06T19:06:37.352Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\manik\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-02-06T19:06:37.353Z] CLI Version:   11.22.0
+[debug] [2023-02-06T19:06:37.354Z] Platform:      win32
+[debug] [2023-02-06T19:06:37.354Z] Node Version:  v18.14.0
+[debug] [2023-02-06T19:06:37.362Z] Time:          Tue Feb 07 2023 00:36:37 GMT+0530 (India Standard Time)
+[debug] [2023-02-06T19:06:37.363Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-02-06T19:06:37.384Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-02-06T19:06:37.386Z] > authorizing via signed-in user (manikgupta919@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\manik\Desktop\project presonal\apna_ghar\apnaghar
+

@@ -4,12 +4,14 @@ import SearchIcon from '@mui/icons-material/Search';
 import LanguageIcon from '@mui/icons-material/Language';
 import DehazeIcon from '@mui/icons-material/Dehaze';
 import { Avatar } from '@mui/material';
+import { Link } from 'react-router-dom';
 
 function Header() {
   return (
     // left section
     <div className='header'>
-    <img src='https://assets.stickpng.com/images/580b57fcd9996e24bc43c513.png' alt='there is an image' className='image__section' />
+        <img src='https://assets.stickpng.com/images/580b57fcd9996e24bc43c513.png' alt='there is an image' className='image__section' />
+    
 
     {/* middle section */}
     <div className='header__middle'>   
